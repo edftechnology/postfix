@@ -19,7 +19,7 @@ O `Postfix` é um popular servidor de email de código aberto projetado para ser
 
 Para configurar/instalar/usar o `postfix` no `Linux Ubuntu`, você pode usar o gerenciador de pacotes apt. Siga os passos abaixo:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 
 
 2. Certifique-se de que seu sistema esteja limpo e atualizado.
