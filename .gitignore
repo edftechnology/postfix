@@ -28,6 +28,7 @@
 *.tar.lzma
 *.tg.xz
 *.sh
+!scripts/configure_gmail_relay.sh
 *.war
 *.wmv
 *.webm

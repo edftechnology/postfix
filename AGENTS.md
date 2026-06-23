@@ -13,6 +13,13 @@ Cada agente possui seu próprio arquivo dedicado, que **não é mesclado** aqui,
 
 ---
 
+## Terminal Output Policy
+
+- Scripts and terminal-facing automation in this repository must print operational messages in English.
+- Keep user documentation in Portuguese when it is part of the repository guide, but prefer English for command output, error messages, and logs.
+
+---
+
 ## Como usar no ChatGPT Codex
 
 No **ChatGPT Codex** (ou outra instância), você pode pedir para o modelo considerar **somente** uma seção ou arquivo específico, por exemplo:
